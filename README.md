@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bisista Shrestha
 
-🎓 **Second-Year Computer Science & Engineering Student** | 👨‍💻 **Problem Solver** | **Always Curious**
+🎓 **Second-Year Computer Science & Engineering Student** | 👨‍💻 **Problem Solver** | ⚡**Always Curious**
 
 I enjoy building projects that combine software engineering, AI, and automation.  
 From creating chatbots inspired by Einstein 🤯 to designing APIs, I like turning ideas into working solutions.  
