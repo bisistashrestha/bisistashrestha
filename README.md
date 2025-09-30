@@ -43,7 +43,7 @@ From creating chatbots inspired by Einstein 🤯 to designing APIs, I like turni
 ---
 
 ## 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/bisista)  
+- LinkedIn - (https://www.linkedin.com/in/bisista)  
 
 ---
 ✨ *Building, learning, and enjoying the process, one project at a time.*
