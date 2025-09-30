@@ -17,10 +17,10 @@ Whether it's creating a chatbot that talks like Einstein 🤯 or building APIs, 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, C, C++  
+- **Languages:** Python, C, Java 
 - **Frameworks:** Flask, LangChain  
 - **Databases:** MySQL, Pandas  
-- **Tools:** Git, CustomTkinter  
+- **Tools:** CustomTkinter  
 - **Other Interests:** AI, chatbot development, building quirky side projects  
 
 ---
@@ -35,7 +35,7 @@ Whether it's creating a chatbot that talks like Einstein 🤯 or building APIs, 
 ---
 
 ## 🌱 Currently Learning
-- Full-stack development with **Flask + MySQL**  
+- Full-stack web development 
 - Advanced Python tricks (OOP, file handling, regex)  
 - Chatbot design & AI integrations  
 - How to drink coffee ☕ without breaking my sleep cycle  
@@ -51,8 +51,8 @@ Whether it's creating a chatbot that talks like Einstein 🤯 or building APIs, 
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/bisista-shrestha-51a6a42b9)  
-- GitHub: *coming soon* 😉  
+- [LinkedIn](https://www.linkedin.com/in/bisista)  
+- GitHub: *coming soon* 
 
 ---
 ✨ *Coding, learning, breaking things (sometimes on purpose), and loving the journey.*  
