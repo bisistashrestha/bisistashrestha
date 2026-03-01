@@ -27,18 +27,11 @@ From creating chatbots inspired by Einstein 🤯 to designing APIs, I like turni
 
 ## 🌱 Currently Learning
 - Full-stack Web development
-- Java Programming Language
-- Advanced Python (OOP, file handling, regex)  
-- Chatbot design & AI integrations  
+- Machine Learning
+- Advanced Python  
+- Chatbot design & AI integrations
+- Japanese Language (JLPT Preparation)  
 - Improving focus without burning out ☕  
-
----
-
-## 🎉 Fun Stuff About Me
-- 🎧 I code better with music on (recommend me playlists!) 
-- 🕹️ Love combining tech with playful experiments  
-- 🚀 Always curious to see what small ideas can grow into  
-- 😅 Debugging is my favorite late-night hobby  
 
 ---
 
