@@ -1,6 +1,5 @@
 # Hi, I'm Bisista Shrestha
-Computer Science and Engineering student (Class of 2028)
-Backend-focused developer interested in marketplace platforms, APIs, and applied AI.
+Computer Science and Engineering student (Class of 2028), backend-focused developer interested in marketplace platforms, APIs, and applied AI.
 
 I build practical backend systems with Java/Spring Boot and Python, and I enjoy turning product ideas into clean, testable API services.
 
