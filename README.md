@@ -43,6 +43,13 @@ Repository: https://github.com/bisistashrestha/Todoist-Task-Manager-Agent
 - Converted natural language requests into actionable Todoist API operations
 - Focused on tool orchestration and conversational reliability
 
+### Einstein Chatbot
+Repository: https://github.com/bisistashrestha/Albert-Einstein-Chat-Bot
+
+- Built a personality-driven chatbot inspired by Albert Einstein using Gemini API
+- Implemented prompt design and conversation state handling for consistent responses
+- Practiced LLM behavior control and user-facing conversational UX design
+
 ## Currently Learning
 
 - Backend system design and API reliability patterns
