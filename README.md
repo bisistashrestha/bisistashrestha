@@ -1,58 +1,56 @@
-# Hi, I'm Bisista Shrestha 👋
-Computer Science & Engineering Student (2028)  
-Backend & AI Enthusiast  
+# Hi, I'm Bisista Shrestha
+Computer Science and Engineering student (Class of 2028)
+Backend-focused developer interested in marketplace platforms, APIs, and applied AI.
 
-I enjoy building scalable backend systems and AI powered applications that turn ideas into working products. My focus is on API development, data-driven systems, and intelligent automation.
+I build practical backend systems with Java/Spring Boot and Python, and I enjoy turning product ideas into clean, testable API services.
 
----
+## Technical Focus
 
-## 🔧 Technical Focus
+- Java (Spring Boot), Python (Flask)
+- REST API design, validation, and persistence layers
+- MySQL data modeling and JPA-based CRUD workflows
+- LLM application development with LangChain and Gemini API
+- Writing modular code that is easy to maintain and extend
 
-- Backend development with **Java (Spring Boot)** and **Python (Flask)**
-- RESTful API design and database integration (**MySQL**)
-- LLM-based systems using **LangChain + Gemini API**
-- Data processing and automation tools
-- Writing modular, maintainable, and extensible code
+## Selected Projects
 
----
+### Mini Marketplace API
+Repository: https://github.com/bisistashrestha/Mini-Marketplace-API
 
-## 🚀 Selected Projects
+- Built a Spring Boot backend for authentication, product management, and order placement
+- Structured code using controller/service/repository layers
+- Added partial update support and endpoint-level validation patterns
+- Ongoing improvements: password hashing, role-based authorization, integration tests
 
-### Weather Data REST API  
-Flask-based REST API serving historical time-series datasets with dynamic routing, filtering, and JSON serialization.
+### Student Data API
+Repository: https://github.com/bisistashrestha/Student-Data-API
 
-### Mini Marketplace Backend  
-Spring Boot application implementing RESTful APIs for product, user, and order management with JPA and MySQL integration.
+- Implemented full CRUD + PATCH operations for student records
+- Practiced clean REST resource design and MySQL integration
+- Used as a focused project to strengthen API correctness and maintainability
 
-### AI Task Automation Assistant  
-Tool-based LLM agent that converts natural language into structured Todoist API operations using LangChain.
+### Weather Data API
+Repository: https://github.com/bisistashrestha/Weather-Data-Api
 
-### Einstein Chatbot  
-Stateful LLM chatbot built using Gemini API and prompt engineering to simulate domain-specific personality behavior.
+- Built Flask endpoints for station/date/year weather queries
+- Handled real dataset constraints (missing values, station normalization, time filtering)
+- Returned structured JSON for downstream data use
 
-### Pomodoro Productivity App  
-Desktop productivity application combining timer logic, task tracking, and session management.
+### Todoist Task Manager Agent
+Repository: https://github.com/bisistashrestha/Todoist-Task-Manager-Agent
 
----
+- Built an LLM-powered task assistant using LangChain tools + Gemini
+- Converted natural language requests into actionable Todoist API operations
+- Focused on tool orchestration and conversational reliability
 
-## 📚 Currently Learning
+## Currently Learning
 
-- Backend system design fundamentals
-- Kotlin for Android development
-- Machine Learning foundations
-- Japanese language (long-term career preparation)
+- Backend system design and API reliability patterns
+- Java and Spring Boot best practices for production services
+- Testing strategies for service and integration layers
+- Japanese language for long-term career growth in Japan
 
----
+## Connect
 
-## 🌱 What Drives Me
-
-I enjoy solving practical problems through software, whether that means designing clean APIs, integrating AI systems, or building tools that improve productivity.
-
-I am continuously working on improving my engineering depth and writing more production-ready code.
-
----
-
-## 📫 Connect
-
-- LinkedIn: https://www.linkedin.com/in/bisista  
+- LinkedIn: https://www.linkedin.com/in/bisista
 - GitHub: https://github.com/bisistashrestha
