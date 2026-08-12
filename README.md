@@ -97,9 +97,7 @@ A Spring Boot backend for an online marketplace with authentication, product man
 
 ## 🎓 Student Data API
 
-<<<<<<< HEAD
 ### Weather Data API
-=======
 Repository: https://github.com/bisistashrestha/Student-Data-API
 
 A REST API designed to strengthen backend fundamentals.
@@ -114,7 +112,6 @@ A REST API designed to strengthen backend fundamentals.
 
 ## 🌦️ Weather Data API
 
->>>>>>> 8761eeaa1bd0d70f249ff560be83bbcbf5132236
 Repository: https://github.com/bisistashrestha/Weather-Data-Api
 
 A Flask-based REST API serving historical weather data.
@@ -150,33 +147,11 @@ A conversational AI inspired by Albert Einstein.
 * Conversation state management
 * Gemini API integration
 
-<<<<<<< HEAD
 - Backend system design and API reliability patterns
 - Java and Spring Boot best practices for production services
 - Testing strategies for service and integration layers
-=======
----
->>>>>>> 8761eeaa1bd0d70f249ff560be83bbcbf5132236
 
 # 🌱 Currently Learning
 
-<<<<<<< HEAD
 - LinkedIn: https://www.linkedin.com/in/bisista
 - Youtube: https://www.youtube.com/channel/UCPQ6Xqh1wHLfcnjGkmPCXmw
-=======
-* Scalable backend architecture
-* Django REST Framework best practices
-* System Design
-* Software Testing (Unit & Integration Testing)
-* Next.js for full-stack development
-* Japanese language for long-term career opportunities in Japan
-
----
-
-# 📫 Connect
-
-* GitHub: https://github.com/bisistashrestha
-* LinkedIn: https://www.linkedin.com/in/bisista
-
-Thanks for stopping by! I'm always excited to learn, build, and collaborate on interesting backend and full-stack projects.
->>>>>>> 8761eeaa1bd0d70f249ff560be83bbcbf5132236
