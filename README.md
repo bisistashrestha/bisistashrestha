@@ -21,13 +21,6 @@ Repository: https://github.com/bisistashrestha/Mini-Marketplace-API
 - Added partial update support and endpoint-level validation patterns
 - Ongoing improvements: password hashing, role-based authorization, integration tests
 
-### Student Data API
-Repository: https://github.com/bisistashrestha/Student-Data-API
-
-- Implemented full CRUD + PATCH operations for student records
-- Practiced clean REST resource design and MySQL integration
-- Used as a focused project to strengthen API correctness and maintainability
-
 ### Weather Data API
 Repository: https://github.com/bisistashrestha/Weather-Data-Api
 
@@ -54,9 +47,8 @@ Repository: https://github.com/bisistashrestha/Albert-Einstein-Chat-Bot
 - Backend system design and API reliability patterns
 - Java and Spring Boot best practices for production services
 - Testing strategies for service and integration layers
-- Japanese language for long-term career growth in Japan
 
 ## Connect
 
 - LinkedIn: https://www.linkedin.com/in/bisista
-- GitHub: https://github.com/bisistashrestha
+- Youtube: https://www.youtube.com/channel/UCPQ6Xqh1wHLfcnjGkmPCXmw
