@@ -53,7 +53,7 @@ I'm currently focused on Python/Django and Java/Spring Boot while expanding my k
 
 # 📌 Featured Projects
 
-## 🏨 Hotel Booking Web 🚧 *(In Progress)* 🚧
+## 🏨 Hotel Resort Booking Web App🚧 *(In Progress)* 🚧
 
 Repository: https://github.com/bisistashrestha/Hotel-Booking
 
@@ -72,7 +72,7 @@ A full-stack hotel booking platform built for a single resort using Django REST 
 * Django Admin customization
 * Production deployment on Render
 
-**Tech Stack:** Django REST Framework • PostgreSQL • Supabase • JWT • WhiteNoise • Gunicorn • Next.js
+**Tech Stack:** Django REST Framework • PostgreSQL • Supabase • Next.js • Tailwind CSS
 
 ---
 ## 🧠 Albert Einstein Chatbot
