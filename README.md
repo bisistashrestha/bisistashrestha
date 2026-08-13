@@ -26,7 +26,6 @@ I'm currently focused on Python/Django and Java/Spring Boot while expanding my k
 
 * PostgreSQL (Supabase)
 * MySQL
-* JPA / Hibernate
 
 ### API Development
 
@@ -48,14 +47,13 @@ I'm currently focused on Python/Django and Java/Spring Boot while expanding my k
 
 * Git & GitHub
 * Postman
-* Render
 * Supabase
 
 ---
 
 # 📌 Featured Projects
 
-## 🏨 Hotel Booking Web *(In Progress)*
+## 🏨 Hotel Booking Web 🚧 *(In Progress)* 🚧
 
 Repository: https://github.com/bisistashrestha/Hotel-Booking
 
@@ -77,7 +75,22 @@ A full-stack hotel booking platform built for a single resort using Django REST 
 **Tech Stack:** Django REST Framework • PostgreSQL • Supabase • JWT • WhiteNoise • Gunicorn • Next.js
 
 ---
+## 🧠 Albert Einstein Chatbot
 
+Repository: https://github.com/bisistashrestha/Albert-Einstein-Chat-Bot
+
+A conversational AI inspired by Albert Einstein.
+
+* Personality-driven responses
+* Prompt engineering
+* Conversation state management
+* Gemini API integration
+
+- Backend system design and API reliability patterns
+- Java and Spring Boot best practices for production services
+- Testing strategies for service and integration layers
+
+---
 ## 🛒 Mini Marketplace API
 
 Repository: https://github.com/bisistashrestha/Mini-Marketplace-API
@@ -91,22 +104,7 @@ A Spring Boot backend for an online marketplace with authentication, product man
 * MySQL integration
 * Ongoing improvements including testing and authorization
 
-**Tech Stack:** Java • Spring Boot • MySQL • JPA
-
----
-
-## 🎓 Student Data API
-
-### Weather Data API
-Repository: https://github.com/bisistashrestha/Student-Data-API
-
-A REST API designed to strengthen backend fundamentals.
-
-* Full CRUD operations
-* PATCH support
-* MySQL integration
-* Clean resource design
-* Validation
+**Tech Stack:** Java • Spring Boot • MySQL
 
 ---
 
@@ -136,22 +134,7 @@ An AI-powered task management assistant built using LangChain and the Gemini API
 
 ---
 
-## 🧠 Einstein Chatbot
-
-Repository: https://github.com/bisistashrestha/Albert-Einstein-Chat-Bot
-
-A conversational AI inspired by Albert Einstein.
-
-* Personality-driven responses
-* Prompt engineering
-* Conversation state management
-* Gemini API integration
-
-- Backend system design and API reliability patterns
-- Java and Spring Boot best practices for production services
-- Testing strategies for service and integration layers
-
-# 🌱 Currently Learning
+# 🤝 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/bisista
 - Youtube: https://www.youtube.com/channel/UCPQ6Xqh1wHLfcnjGkmPCXmw
