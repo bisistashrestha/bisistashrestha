@@ -1,140 +1,78 @@
 # Hi, I'm Bisista Shrestha 👋
 
-Computer Science and Engineering student (Class of 2028) with a strong interest in backend engineering, distributed systems, and API development. I enjoy designing scalable backend applications, building secure REST APIs, and solving real-world problems through clean, maintainable software.
+CS & Engineering student (Class of 2028) into backend development, building AI-powered tools, and lately grinding DSA in C++.
 
-I'm currently focused on Python/Django and Java/Spring Boot while expanding my knowledge of system design, database engineering, and production-ready backend architecture.
-
----
-
-## 🚀 Technical Focus
-
-### Languages
-
-* Python
-* Java
-* C
-* SQL
-
-### Backend
-
-* Django
-* Django REST Framework
-* Spring Boot
-* Flask
-
-### Databases
-
-* PostgreSQL (Supabase)
-* MySQL
-
-### API Development
-
-* REST API Design
-* JWT Authentication
-* CRUD Operations
-* Request Validation
-* Database Transactions
-* Role-Based Authorization
-
-### AI & Automation
-
-* LangChain
-* Google Gemini API
-* LLM Tool Calling
-* Prompt Engineering
-
-### Tools
-
-* Git & GitHub
-* Postman
-* Supabase
+Currently exploring research opportunities at the intersection of **AI and healthcare**.
 
 ---
 
-# 📌 Featured Projects
+## 🛠️ What I work with
 
-## 🏨 Hotel Resort Booking Web App🚧 *(In Progress)* 🚧
+**Languages**
+`Python` `C++` `TypeScript` `C` `SQL`
 
-Repository: https://github.com/bisistashrestha/Hotel-Booking
+**Backend**
+`Django` `Django REST Framework` `Flask`
 
-A full-stack hotel booking platform built for a single resort using Django REST Framework, PostgreSQL, and Next.js.
+**Frontend**
+`Next.js` `Tailwind CSS`
 
-### Backend Features
+**GUI Development**
+`CustomTkinter`
 
-* Custom User model with email authentication
-* JWT-based authentication
-* PostgreSQL database hosted on Supabase
-* Room availability search
-* Booking management
-* Automatic price calculation
-* Transaction-safe booking creation using database locks (`select_for_update`)
-* Double-booking prevention
-* Django Admin customization
-* Production deployment on Render
+**Databases**
+`PostgreSQL` `Supabase` `MySQL`
 
-**Tech Stack:** Django REST Framework • PostgreSQL • Supabase • Next.js • Tailwind CSS
+**AI & Automation**
+`Google Gemini API` `LangChain`
 
----
-## 🧠 Albert Einstein Chatbot
-
-Repository: https://github.com/bisistashrestha/Albert-Einstein-Chat-Bot
-
-A conversational AI inspired by Albert Einstein.
-
-* Personality-driven responses
-* Prompt engineering
-* Conversation state management
-* Gemini API integration
-
-- Backend system design and API reliability patterns
-- Java and Spring Boot best practices for production services
-- Testing strategies for service and integration layers
-
----
-## 🛒 Mini Marketplace API
-
-Repository: https://github.com/bisistashrestha/Mini-Marketplace-API
-
-A Spring Boot backend for an online marketplace with authentication, product management, and order placement.
-
-* Layered architecture (Controller → Service → Repository)
-* CRUD operations
-* Partial updates
-* Validation
-* MySQL integration
-* Ongoing improvements including testing and authorization
-
-**Tech Stack:** Java • Spring Boot • MySQL
+**Tools**
+`Git` `Postman` `Vercel`
 
 ---
 
-## 🌦️ Weather Data API
+## 🚀 Projects
 
-Repository: https://github.com/bisistashrestha/Weather-Data-Api
-
-A Flask-based REST API serving historical weather data.
-
-* Station-based weather queries
-* Date and year filtering
-* JSON responses
-* Data normalization
-
----
-
-## 🤖 Todoist Task Manager Agent
-
-Repository: https://github.com/bisistashrestha/Todoist-Task-Manager-Agent
-
-An AI-powered task management assistant built using LangChain and the Gemini API.
-
-* Natural language task management
-* Tool orchestration
-* Todoist API integration
-* Conversational workflow automation
+### 🏨 [Yama Kaze — Resort Booking Web App](https://github.com/bisistashrestha/Hotel-Resort-Booking) · 🌐 [Live](https://hotel-resort-booking-66l2.vercel.app)
+Full-stack resort booking app built during an internship at [@CloudOnHire](https://github.com/CloudOnHire). Guests can browse rooms, make reservations, and manage their trips.
+- Email-based auth with **HttpOnly cookie JWT** (no localStorage exposure)
+- Room availability filtering by check-in / check-out date, automatic total price calculation
+- Trip history and cancellation (blocked on or after check-in date)
+- Swagger UI + OpenAPI schema for API exploration · Django Admin for backend management
+- `Django REST Framework` · `PostgreSQL` · `Next.js` · `Tailwind CSS` · `Render` · `Vercel`
 
 ---
 
-# 🤝 Connect With Me
+### 🧠 [Albert Einstein Chatbot](https://github.com/bisistashrestha/Albert-Einstein-Chat-Bot) · [🎥 Watch Demo](https://youtu.be/QcEt5xwcRi4)
+Ask Einstein anything. Physics, math, philosophy and get answers in his tone: curious, humble, and a little witty.
+- Emulates Einstein's post-1950s voice using **Gemini 2.5 Flash** via LangChain
+- Multi-turn conversations with the last 6 exchanges kept in memory
+- Minimal Gradio UI with custom avatars and a clear chat button
+- `Python` · `LangChain` · `Google Gemini 2.5 Flash` · `Gradio`
 
-- LinkedIn: https://www.linkedin.com/in/bisista
-- Youtube: https://www.youtube.com/channel/UCPQ6Xqh1wHLfcnjGkmPCXmw
+---
+
+### 🤖 [Todoist Task Manager Agent](https://github.com/bisistashrestha/Todoist-Task-Manager-Agent)
+Talk to your Todoist like a person: add tasks, view them, and manage your day through conversation.
+- LangChain AgentExecutor orchestrates tools that hit the real Todoist API
+- Maintains conversation history for contextual, multi-turn interactions
+- Powered by **Gemini 2.5 Flash** for natural language understanding
+- `Python` · `LangChain` · `Google Gemini 2.5 Flash`
+
+---
+
+### 🍅 [Pomodoro Tools App](https://github.com/bisistashrestha/Pomodoro-Tools-App) · [🎥 Watch Demo](https://youtu.be/JJSbInN03TY)
+A desktop productivity app that combines a Pomodoro timer, task manager, and notepad, all in one place.
+- 25/5/15 min focus and break cycles with auto-transitions, pause/resume, and a session counter
+- Built-in task manager (add, edit, delete) and per-user notepad with local persistence
+- Multi-user support: each user gets their own tasks and notes stored in a local SQLite db
+- Dynamic greeting based on the current time
+- `Python` · `CustomTkinter` · `SQLite`
+
+---
+
+## 🤝 Find me here
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bisista)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCPQ6Xqh1wHLfcnjGkmPCXmw)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bisistashrestha)
