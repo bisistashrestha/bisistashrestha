@@ -65,9 +65,9 @@ Talk to your Todoist like a person: add tasks, view them, and manage your day th
 A desktop productivity app that combines a Pomodoro timer, task manager, and notepad, all in one place.
 - 25/5/15 min focus and break cycles with auto-transitions, pause/resume, and a session counter
 - Built-in task manager (add, edit, delete) and per-user notepad with local persistence
-- Multi-user support: each user gets their own tasks and notes stored in a local SQLite db
+- Multi-user support: each user gets their own tasks and notes stored in a local binary db
 - Dynamic greeting based on the current time
-- `Python` · `CustomTkinter` · `SQLite`
+- `Python` · `CustomTkinter` · `binary db`
 
 ---
 
