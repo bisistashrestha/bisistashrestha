@@ -67,7 +67,7 @@ A desktop productivity app that combines a Pomodoro timer, task manager, and not
 - Built-in task manager (add, edit, delete) and per-user notepad with local persistence
 - Multi-user support: each user gets their own tasks and notes stored in a local binary db
 - Dynamic greeting based on the current time
-- `Python` · `CustomTkinter` · `binary db`
+- `Python` · `CustomTkinter` · `Binary db`
 
 ---
 
