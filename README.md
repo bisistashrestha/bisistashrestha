@@ -9,7 +9,7 @@ I'm particularly interested in the intersection of **AI, healthcare, computer vi
 
 - 🔭 **Currently working on:** AI-powered compliance systems and knowledge-base retrieval.
 - 🧠 **Exploring:** LLMs, computer vision, AI agents, and applied AI research.
-- 🏥 **Long-term direction:** AI for healthcare, including my Autonomous Medical Reasoning System (AMRS) concept.
+- 🏥 **Long-term direction:** AI for healthcare.
 - 📚 **Research interests:** Human vs. machine symmetry detection, LLM bias, AI regulation, and LLM watermarking.
 - 💻 **Currently strengthening:** Data structures, algorithms, backend engineering, and research skills.
 
@@ -54,14 +54,6 @@ I'm particularly interested in the intersection of **AI, healthcare, computer vi
 ### 🏦 Neeyam — NRB Compliance Copilot
 **AI-powered compliance assistance | Pilot**
 
-Working on Neeyam, a compliance copilot designed to help users navigate Nepal Rastra Bank (NRB) regulatory documents and find relevant information through natural-language questions.
-
-- Building a conversational interface for compliance-related queries.
-- Focused on document retrieval, evidence-backed answers, and verifiable citations.
-- Exploring bilingual document processing and retrieval across English and Nepali regulatory PDFs.
-- Working toward more reliable responses by grounding answers in source documents.
-
-*Current focus: Improving document coverage, OCR quality, bilingual retrieval, and answer reliability.*
 
 ### 🏨 [Yama Kaze — Resort Booking Web App](https://github.com/bisistashrestha/Hotel-Resort-Booking) · [Live Demo](https://hotel-resort-booking-66l2.vercel.app)
 
