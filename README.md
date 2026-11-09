@@ -119,25 +119,6 @@ These are areas I'm exploring for potential research projects and publications, 
 
 ---
 
-## 🎯 What I'm Building Toward
-
-### 🏥 Autonomous Medical Reasoning System (AMRS)
-A longer-term project direction exploring an AI copilot for doctors. The goal is to investigate how AI can assist medical reasoning while keeping evidence, reliability, and clinician oversight central to the design.
-
-### 📚 Research & Engineering
-I'm working toward combining practical engineering with deeper research in AI. My long-term ambition is to pursue postgraduate research and eventually a PhD, contributing to problems that matter beyond a single application.
-
----
-
-## 📈 Beyond the Code
-
-- 🧩 Practicing data structures and algorithms.
-- 🧪 Exploring research questions through experimentation and literature reviews.
-- 🛠️ Building practical applications and learning through implementation.
-- 🌱 Interested in responsible AI, healthcare technology, and research-driven innovation.
-
----
-
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bisista)
